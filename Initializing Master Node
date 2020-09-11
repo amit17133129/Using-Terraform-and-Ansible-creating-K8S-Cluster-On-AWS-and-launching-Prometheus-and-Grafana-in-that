@@ -1,0 +1,1 @@
+kubeadm init --pod-network-cidr=10.10.1.0/16

@@ -1,0 +1,7 @@
+save terraform code with .tf extension
+
+#First initialize this code and then run 
+
+terraform init           ----->  for initializing
+
+terraform apply          ----->  for running terraform code

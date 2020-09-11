@@ -1,0 +1,7 @@
+#launch prometheus
+
+kubectl create deployment promtest1 --image=prom/prometheus:latest
+
+#launch grafana
+
+kubectl create deployment graphtest1  --image=grafana/grafana:latest
